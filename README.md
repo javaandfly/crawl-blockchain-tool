@@ -1,4 +1,4 @@
-# sync-web3-event
+# crawl-blockchain-tool
 
 - 一个通用的爬链工具
 
